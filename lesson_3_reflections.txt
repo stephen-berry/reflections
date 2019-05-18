@@ -8,3 +8,7 @@ If you are in a group with others and will possibly be working off other compute
 Describe the differences between forks, clones, and branches. When would you use on instead of another?
 
 You would fork to take someones repository whom you are basing your repository off of, clone to share to your system and your groups systems, and branches are to separate your work into different stages?.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+In case you need to go offline and work on it, you will have access to the entire remote at the time of copying while you are offline.
