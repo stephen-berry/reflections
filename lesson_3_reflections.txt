@@ -4,3 +4,7 @@ Adding stuff for testing
 When would you want to create a remote repository rather than keeping all your work locally?
 
 If you are in a group with others and will possibly be working off other computers that do not contain your local files.
+
+Describe the differences between forks, clones, and branches. When would you use on instead of another?
+
+You would fork to take someones repository whom you are basing your repository off of, clone to share to your system and your groups systems, and branches are to separate your work into different stages?.
